@@ -1,5 +1,6 @@
 # documentation
 
+vim.spf13.com
 
 http://www.methodsandtools.com/archive/archive.php?id=121 
 
