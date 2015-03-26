@@ -15,3 +15,5 @@ http://www.sonarqube.org/downloads/
 http://www.cryptocracy.com/blog/2014/01/03/cooking-with-jenkins-test-kitchen-and-docker
 
 http://blog.bscott.me/2012/12/08/Chef-Testing-Part-2.html
+
+https://github.com/sstephenson/rbenv
